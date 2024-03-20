@@ -3,7 +3,6 @@ package com.busterap.firstjobapp.company.impl;
 import com.busterap.firstjobapp.company.Company;
 import com.busterap.firstjobapp.company.CompanyRepository;
 import com.busterap.firstjobapp.company.CompanyService;
-import com.busterap.firstjobapp.job.Job;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
